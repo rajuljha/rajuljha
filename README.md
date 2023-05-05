@@ -1,5 +1,5 @@
 # 💫 About Me:
-Howdy! I am ~rjknightmare . I love coding and technology. <br>I am interested in learning how the web and internet works in general.<br>Checkout my projects on Github.<br>If you want to talk about code, music or cricket, I am all ears for it.<br>Connect with me on Linkedin or Twitter. 
+Howdy! I am [~rjknightmare](https://github.com/rajuljha) I love coding and technology. <br>I am interested in learning how the web and internet works in general.<br>If you want to talk about code, music or cricket, I am all ears for it.<br>Connect with me via [Email](rajuljha49@gmail.com).
 
 
 ## 🌐 Socials:
