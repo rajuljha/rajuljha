@@ -1,5 +1,5 @@
 # 💫 About Me:
-Howdy! I am [~rjknightmare](https://github.com/rajuljha) I love coding and technology. <br>I am interested in learning how the web and internet works in general.<br>If you want to talk about code, music, or stars, I am all ears for it. I am also a Potterhead! <br>Connect with me via <a href="mailto:emersonpess011108@gmail.com?"><img style = "object-fit : contain"src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+Howdy! I am [~rjknightmare](https://github.com/rajuljha) I love coding and technology. <br>I am interested in learning how the web and internet works in general.<br>If you want to talk about code, music, or stars, I am all ears for it. I am also a Potterhead! <br>Connect with me via <a href="mailto:emersonpess011108@gmail.com?">
 
 
 ## 🌐 Socials:
