@@ -1,6 +1,6 @@
 # 💫 About Me:
 Howdy! I am [~rjknightmare](https://github.com/rajuljha) I love coding and technology. <br>I am interested in learning how the web and internet works in general.<br>If you want to talk about code, music, or stars, I am all ears for it. I am also a Potterhead! <br>Connect with me via <a href="mailto:emersonpess011108@gmail.com?">Email</a> 
-
+ 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rjknightmare) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajul-jha-627012251) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rajuljha49) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/rjknightmare) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rajul_jha) 
 
