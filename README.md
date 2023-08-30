@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **rajuljha49@gmail.com**
 
-- 📄 Know about my experiences [rajuljha.netlify.app/cv](rajuljha.netlify.app/cv)
+- 📄 Know about my experiences [rajuljha.netlify.app/cv](https://rajuljha.netlify.app/cv)
 
 - ⚡ Fun fact **I think I am funny!**
 
