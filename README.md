@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **rajuljha49@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ix7z8djBc60Imy_vB1_B_Vw-sXUrB134/view?usp=sharing
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Ix7z8djBc60Imy_vB1_B_Vw-sXUrB134/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny!**
 
