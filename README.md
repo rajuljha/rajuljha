@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [My_Github](https://github.com/rajuljha?tab=repositories)
 
+- 📝 Checkout my Blog: [The Knight Blog](https://rajuljha.github.io)
+
 - 📝 I regularly write articles on [https://medium.com/rjknightmare](https://medium.com/rjknightmare)
 
 - 💬 Ask me about **Python**
