@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 - 📝 Checkout my Blog: [The Knight Blog](https://rajuljha.github.io)
 
-- 📝 I regularly write articles on [https://medium.com/rjknightmare](https://medium.com/rjknightmare)
+- 📝 I regularly write articles on [https://medium.com/rjknightmare](https://medium.com/@rajuljha49)
 
 - 💬 Ask me about **Python**
 
